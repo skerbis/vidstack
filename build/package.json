@@ -4,7 +4,7 @@
         "vidstack": "^1.11.24"
     },
     "devDependencies": {
-        "esbuild": "^0.25.0"
+        "esbuild": "^0.28.1"
     },
     "scripts": {
         "build_components": "esbuild config/vs_components.js --bundle --outfile=dist/vidstack.js",
